@@ -1,0 +1,17 @@
+{
+	"name": "Mir.Iot.Synapse",
+	"dockerComposeFile": "docker-compose.yml",
+	"workspaceFolder": "/workspace/Mir.Log.Synapse/",
+	"service": "mir_synapse_dc",
+	"extensions": [
+		"ms-python.python",
+		"eamodio.gitlens",
+		"DavidAnson.vscode-markdownlint",
+		"yzhang.markdown-all-in-one",
+		"ms-azuretools.vscode-bicep"
+	],
+	"settings": {
+		"python.pythonPath": "/usr/local/bin/python"
+	},
+	"postCreateCommand": ""
+}
